@@ -1,5 +1,7 @@
 # giv
 
+Conceptual
+
 Go Image Viewer
 
 A minimalist Image Viewer written in Go
